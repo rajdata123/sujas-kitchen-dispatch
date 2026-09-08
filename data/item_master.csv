@@ -1,0 +1,119 @@
+item_code,item_name,erp_category,uom,dispatch_sheet,group,storage_category,chef_bucket,status
+A842b4,Butter Milk (100ml) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PACKING CHILLER,Cold Store,Meals,Mapped
+58cdd1,Fish Curry Meal (150ml) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PACKING CHILLER,Cold Store,Meals,Mapped
+811320,Fish Fry Masala (Red) (1Kg) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PACKING CHILLER,Cold Store,Meals,Mapped
+C2de98,Veg Curry For Meals (150ml) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PACKING CHILLER,Cold Store,Meals,Mapped
+Fd7d6c,Ammachi Kozhi Curry (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+9b748a,Beef Curry (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+78dbfa,Beef Roast (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+5ab51a,Beef Ularth (270g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+D3d854,Chicken Kanjirappally (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+793ed6,Chicken Railway (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+C1d719,Chicken Stew (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+538958,Chicken Sukka (370g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+Ed3c37,Chicken Veetile Curry (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+C0dfe7,Kadala Curry (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+7b2c10,Kappa (500g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+Addfb0,Kondatum Chicken (370g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+4e2f00,Mango Fish Curry (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+6bd343,Mix Veg Curry (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+B69482,Paal Kappa (470g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+B1e2a8,Pothichuro (900g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+56982d,Red Fish Curry (400g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+5b497f,Sambar (150g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+B8d008,Thalassery Chicken Biryani (700g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,PORTION CURRY,Cold Store,Meals,Mapped
+10ac5f,Beef Pickle / Irachi Pickle (200g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pickle,Cold Store,Meals,Mapped
+4d8b15,Chammanthi Podi (150g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pickle,Cold Store,Meals,Mapped
+F88def,Fish Pickles (200g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pickle,Cold Store,Meals,Mapped
+59d6d3,Mango Pickles (200g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pickle,Cold Store,Meals,Mapped
+9f08f0,Chilled Palada Payasam (250ml) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pudding/Cake,Cold Store,Meals,Mapped
+F5eda0,Plum Cake Whole (850g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pudding/Cake,Dry Store,Meals,Mapped
+Eabcc0,Red Velvet Cake Slice (75g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pudding/Cake,Cold Store,Meals,Mapped
+26865c,Slice Plum Cake (120g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pudding/Cake,Dry Store,Meals,Mapped
+E7f234,Tender Coconut Pudding (500g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,Pudding/Cake,Cold Store,Meals,Mapped
+57bf36,Aval Vilayichathu (300g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+Fdbc2d,Banana Chips (110g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+92a6d8,Banana Chips Spicy (110g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+21f089,Chembu Chips (100g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+7a7e25,Frozen Unnakkaya 500g,Food - Frozen Food,500g,Catergery-1,SNACK,Cold Store,Snacks,Mapped
+92628d,Kozhukkatta (70g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Cold Store,Snacks,Mapped
+761fb7,Kuzhalappam (110g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+3a8c41,Mixture (250g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+79e15c,Parippuvada Mix (40g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+6ec2c9,Sukiyan (50g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+45cbd5,Sweet Diamond Cuts (150g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Cold Store,Snacks,Mapped
+5d90f1,Unniyappam (20g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-1,SNACK,Dry Store,Snacks,Mapped
+Aad41c,Anwa Rice 1Kg,Food - Rice & Flour,1Kg,Catergery-2,DRY STORE,Dry Store,,Mapped
+8ff229,Coconut Oil 2L Btl,Food - Cooking Oil,2L Btl,Catergery-2,DRY STORE,Dry Store,,Mapped
+C4217b,Coke Cola 330ml 1Piece Can,Beverage - Soft Drinks,1Piece Can,Catergery-2,DRY STORE,Dry Store,,Mapped
+01ac1f,Corn Flour 1Kg,Food - Rice & Flour,1Kg,Catergery-2,DRY STORE,Dry Store,,Mapped
+D394f5,Food Colour Orange Red 100g Pkt,Food - Groceries/Dry Goods,100g Pkt,Catergery-2,DRY STORE,Dry Store,,Mapped
+704855,Green Chilli Sauce 680g Btl,Food - Sauces & Dressings,680g Btl,Catergery-2,DRY STORE,Dry Store,,Mapped
+A89d31,Idiyappam 65g Pkt (10x1Piece),Food - Cookies/Cakes/Pastries,Pkt (10x1Piece),Catergery-2,DRY STORE,Dry Store,,Mapped
+21b4a8,Iodized Salt 1Kg,Food - Groceries/Dry Goods,1Kg,Catergery-2,DRY STORE,Dry Store,,Mapped
+Bdee69,Jeerakasala Rice 1Kg,Food - Rice & Flour,1Kg,Catergery-2,DRY STORE,Dry Store,,Mapped
+869a38,Kashmiri Chilly Powder 1Kg Pkt,Food - Herbs & Spices,1Kg Pkt,Catergery-2,DRY STORE,Dry Store,,Mapped
+B88692,Kismis Golden 1Kg,Food - Groceries/Dry Goods,1Kg,Catergery-2,DRY STORE,Dry Store,,Mapped
+4e9b24,Maida Refined White Flour 1Kg,Food - Rice & Flour,1Kg,Catergery-2,DRY STORE,Dry Store,,Mapped
+Db960c,Pappadam (M) Pkt (40x1Piece),Food - Groceries/Dry Goods,Pkt (40x1Piece),Catergery-2,DRY STORE,Dry Store,,Mapped
+749646,Pepsi 330ml 1Piece Can,Beverage - Soft Drinks,1Piece Can,Catergery-2,DRY STORE,Dry Store,,Mapped
+497daa,Rice Powder 1Kg,Food - Rice & Flour,1Kg,Catergery-2,DRY STORE,Dry Store,,Mapped
+A5a5f9,Scrapped Coconut (1kg) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,DRY STORE,Dry Store,,Mapped
+97921c,Sprite 330ml 1Piece Can,Beverage - Soft Drinks,1Piece Can,Catergery-2,DRY STORE,Dry Store,,Mapped
+734ba6,Sugar 1Kg,Food - Groceries/Dry Goods,1Kg,Catergery-2,DRY STORE,Dry Store,,Mapped
+74918e,Sunflower Oil 5L Can,Food - Cooking Oil,5L Can,Catergery-2,DRY STORE,Dry Store,,Mapped
+02de6e,Tomato Ketchup Sachet 1Piece,Food - Sauces & Dressings,1Piece,Catergery-2,DRY STORE,Dry Store,,Mapped
+677904,Vegetable Oil 18L Can,Food - Cooking Oil,18L Can,Catergery-2,DRY STORE,Dry Store,,Mapped
+Bd9eeb,Dosa Batter 1Kg,Food - Rice & Flour,1Kg,Catergery-2,Diary chiller,Cold Store,,Mapped
+42b69d,Fresh Eggs - White Tray (30x1Piece),Food - Poultry,Tray (30x1Piece),Catergery-2,Diary chiller,Cold Store,,Mapped
+1888b0,Full Cream Milk - Long Life 1L Pkt,Food - Milk & Cream,1L Pkt,Catergery-2,Diary chiller,Dry Store,,Mapped
+Fd5527,Chicken Samosa (30g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Fish/meat,Cold Store,,Mapped
+48b4fb,Chicken Shawarma 2.5Kg Pkt,Food - Poultry,2.5Kg Pkt,Catergery-2,Fish/meat,Cold Store,,Mapped
+28c4af,Chicken Whole 1Kg Pkt,Food - Poultry,1Kg Pkt,Catergery-2,Fish/meat,Cold Store,,Mapped
+04457e,Fish Packet (60g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Fish/meat,Cold Store,,Mapped
+Cbc3fd,Fresh King Fish Fry (100g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Fish/meat,Cold Store,,Mapped
+1e23fa,Fresh Netholi Fry (130g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Fish/meat,Cold Store,,Mapped
+6d8b35,Kunjan Mathi Fry (130g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Fish/meat,Cold Store,,Mapped
+09c4aa,Mathi Fry (110g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Fish/meat,Cold Store,,Mapped
+2a791b,Poricha Kozhi (Boneless) (200g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Fish/meat,Cold Store,,Mapped
+C46649,Poricha Kozhi (With Bone) (220g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Fish/meat,Cold Store,,Mapped
+3bd7ec,Sardine Fish Mathi 1Kg,Food - Seafood,1Kg,Catergery-2,Fish/meat,Cold Store,,Mapped
+7cab3a,Veal Leg 1Kg,Food - Meat,1Kg,Catergery-2,Fish/meat,Cold Store,,Mapped
+824a96,Appam Maavu (1Ltr) POR 1Kg,Food - Stockable Portion Recipe,1Kg,Catergery-2,Maida/ cutlets,Cold Store (Bakery Room),,Mapped
+A9d809,Beef Cutlet (43g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Maida/ cutlets,Cold Store (Bakery Room),,Mapped
+A7a2d2,Chapathi (60g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Maida/ cutlets,Cold Store (Bakery Room),,Mapped
+5d5e9a,Chicken Cutlet (45g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Maida/ cutlets,Cold Store (Bakery Room),,Mapped
+7aa754,Paratha Roll (80g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Maida/ cutlets,Cold Store (Bakery Room),,Mapped
+38ebbe,Wheat Paratha (80g) POR 1Piece,Food - Stockable Portion Recipe,1Piece,Catergery-2,Maida/ cutlets,Cold Store (Bakery Room),,Mapped
+E1ccba,Aluminium Foil 30cm 18mic 1Piece,Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+12f32a,Baking Paper Wrap 75x45 1Piece,Consumables - Consumables,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+6e1841,Black Cutlery Set 1Piece,Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+8b2985,Brown Bag Medium Twisted 1Piece,Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+6cde09,Brown Bag Small - Branded 1Piece,Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+37d52c,Cello Tape 1Piece,Stationery - Stationery,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+18c558,Clear Bowl Design 200cc + Clear Lids Star 1Piece,Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+4b74c5,"Foam Plate 10"" 1Piece",Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+007c82,Hinged Cup 1oz 1Piece,Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+A28eaf,POS Roll 80 X 80mm 1 Ply 1Piece,Stationery - Stationery,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+Dbab56,Plastic Spoon White 1Piece,Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+775108,Plastic Tray - V3 1Kg (20Pcs),Packaging - Packaging,1Kg (20Pcs),Catergery-2,PACKING AREA,Dispo Store,,Mapped
+52388e,Sponge Cloth Yellow Pkt (10x1Piece),Cleaning Supplies - Other Cleaning Supplies,Pkt (10x1Piece),Catergery-2,PACKING AREA,Dispo Store,,Mapped
+6f197f,White Plastic Container 75cc + Lid Jabri Gold 1Piece,Packaging - Packaging,1Piece,Catergery-2,PACKING AREA,Dispo Store,,Mapped
+62c676,Banana Fresh 1Kg,Food - Fruits,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+1b691d,Banana Leaf 1Piece,Food - Vegetables,1Piece,Catergery-2,VEGETABLE,Veg Store,,Mapped
+167235,Cabbage Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+Cabda0,Capsicum Green Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+446170,Capsicum Red Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+97928a,Capsicum Yellow Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+Afa67e,Cauliflower 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+A03db4,Celery Leaves Veg 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+A9c720,Coriander Leaves 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+C18fb2,Cucumber Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+431b52,Curry Leaves Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+25e830,Garlic 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+30152f,Ginger Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+Be3ed1,Green Chilli Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+57e360,Lemon Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+514b94,Onion Red Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+16208c,Potato 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
+D37c3d,Spring Onion Fresh 1Kg,Food - Vegetables,1Kg,Catergery-2,VEGETABLE,Veg Store,,Mapped
